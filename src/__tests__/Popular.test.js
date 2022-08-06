@@ -1,3 +1,4 @@
+/*eslint-disable*/
 import { Provider } from 'react-redux';
 import TestRenderer from 'react-test-renderer';
 import store from '../redux/Store';
