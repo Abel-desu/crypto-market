@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-#Crypto-Market
+## Crypto-Market
 
 >In this Project, I worked with the real live data from the cryptocurrency API and it display the market of cryptocurrency coins.
 
@@ -37,6 +37,6 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the issues page.
 
 Acknowledgements
-Original design idea by Nelson Sakwa on Behance
+Original design idea by [@Nelson Sakwa on Behance]
 Show your support
 Give a ⭐️ if you like this project!
