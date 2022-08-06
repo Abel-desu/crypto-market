@@ -14,6 +14,9 @@
 
 [Demo](https://coinbasecrypto-market.netlify.app/)
 
+## Live video
+[video](https://www.loom.com/share/7a46cf7c406b4a3f865cc3dadaf742c8)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
