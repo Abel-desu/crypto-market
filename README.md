@@ -1,38 +1,37 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
+#Crypto-Market
 
+>In this Project, I worked with the real live data from the cryptocurrency API and it display the market of cryptocurrency coins.
 
-##Crypto-Market
-In this Project, I worked with the real live data from the cryptocurrency API and it display the market of cryptocurrency coins.
+## Built With
 
-Built With
-React
-Javascript
-CSS
-Redux
-##Getting Started
+- HTML, CSS , Javascript
+- React, Redux frameworks
+- Eslint, Stylelintrc, Redux ToolKit
 
-To get a local copy follow these simple steps:
+## Live Demo
 
-Clone this repo and open the folder containing the clone in your terminal
-Run these commands to install the dev dependencies and get started:
-Ensure you have git installed on your terminal
-Run each of the following codes on your terminal
-npm install
-npm run build
-npm start
-Ensure you have node.js installed.
+[NOT AVAILABLE](https://livedemo.com)
 
-##Live demo
+## Getting Started
 
+To get a local copy up and running follow these simple steps.
+
+- Clone the project `$ git clone https://github.com/Abel-desu/crypto-market.git`
+- Open your project in VS code of any text editor that you love to use.
+- Install node js `npm install`
+- you can bulid the project `npm run build` and run it using the browser or live server or you can run it using `npm run start`.
 
 Author
+
 👤 **Abel Desalegn**
 
-GitHub: @Abel-desu
-Twitter: @Abeldesalegn
-LinkedIn: Abeldesalegn
+- GitHub: [@AbelDesalegn](https://github.com/Abel-desu)
+- Twitter: [@AbelDesalegn](https://twitter.com/abeldesalegn97)
+- LinkedIn: [@AbelDesalegn](https://www.linkedin.com/in/abel-desalegn)
 
-##🤝 Contributing
+## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
