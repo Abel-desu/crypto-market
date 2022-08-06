@@ -34,9 +34,9 @@ Author
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-Acknowledgements
-Original design idea by [@Nelson Sakwa on Behance]
+## Acknowledgements
+Original design idea by: [@Nelson Sakwa on Behance]
 Show your support
 Give a ⭐️ if you like this project!
