@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[NOT AVAILABLE](https://livedemo.com)
+[Demo](https://coinbasecrypto-market.netlify.app/)
 
 ## Getting Started
 
